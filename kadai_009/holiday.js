@@ -6,6 +6,6 @@ while(i < holidays.length){
     i++ ;
 }
 
-for(let i = 0 ; i  < 14 ; i ++){
+for(let i = 0 ; i  < 16 ; i ++){
     console.log(holidays[i]);
 }
